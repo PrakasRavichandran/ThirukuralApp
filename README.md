@@ -1,6 +1,6 @@
 # திருக்குறள் கற்போம் (Let's learn Thirukural)
 
-[திருக்குறள் கற்போம் வலைத்தளம்](https://thirukural-karpom.github.io/)
+[திருக்குறள் கற்போம் வலைத்தளம்](https://thirukuralapp.netlify.app/)
 
 ## Contributing
 
