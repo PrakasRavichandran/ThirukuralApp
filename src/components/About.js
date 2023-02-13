@@ -18,7 +18,7 @@ const About = () => {
           </p>
 
           <p>
-            இந்த வலைத்தளம் பற்றிய உங்கள் கருத்துக்களை தெரிவிக்க <a href="mailto:prakashravichandran2530@gmail.com">arunvelsriram@gmail.com</a> என்ற முகவரிக்கு மின்னஞ்சல் அனுப்பவும்.
+            இந்த வலைத்தளம் பற்றிய உங்கள் கருத்துக்களை தெரிவிக்க <a href="mailto:prakashravichandran2530@gmail.com">prakashravichandran2530@gmail.com</a> என்ற முகவரிக்கு மின்னஞ்சல் அனுப்பவும்.
           </p>
 
           <p>
